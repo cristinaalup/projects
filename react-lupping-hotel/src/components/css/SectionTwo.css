@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Poppins:wght@100;200;400&display=swap");
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.block-center-s2 {
+  display: block;
+  margin: 0 auto;
+}
+
+.columns-container-s2 {
+  display: flex;
+  justify-content: center;
+}
+
+.advantage-card {
+  margin: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  width: 330px;
+  align-items: center;
+  color: #1f31d6;
+  padding: 10px;
+}
+
+.width-100 {
+  max-width: 100px;
+}
+
+.gap-3 {
+  gap: 1rem;
+}
+.gap-6 {
+  gap: 0.1rem;
+}
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.font-small-card {
+  font-size: 0.75rem;
+}
+
+.font-bold {
+  font-weight: 700px;
+}
+
+.no-margins {
+  margin-bottom: 0%;
+}

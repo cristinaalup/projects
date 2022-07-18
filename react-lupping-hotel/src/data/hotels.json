@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "Breathless Punta Cana",
+    "featured_image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/304028796.jpg?k=9d91d35691566d41022a7f7842dbb16502bfc7fa56202a7fb8bcf980f8d2dbca&o=&hp=1",
+    "star_rating": 5,
+    "price_ppn": 150,
+    "breakfast_price": 25,
+    "booking_message": "Thank you for choosing Breathless Punta Cana! See you soon!"
+  },
+  {
+    "id": 1,
+    "name": "Sandals Royal Caribbean",
+    "featured_image": "https://cdn.sandals.com/sandals/v12/images/resorts/src/home/main-slider/aerial-over-the-water-suites.jpg",
+    "star_rating": 5,
+    "price_ppn": 260,
+    "breakfast_price": 22,
+    "booking_message": "Thank you for choosing to spend your vacation with us! Hope you'll enjoy your stay!"
+  },
+  {
+    "id": 2,
+    "name": "Couples Swept Away",
+    "featured_image": "https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/couples-resorts/media/couples-swept-away-gallery-3-5c7856e214b64.jpg",
+    "star_rating": 4,
+    "price_ppn": 135,
+    "breakfast_price": 19,
+    "booking_message": "Thank you for choosing Couples Swept Away! We hope you'll have the best vacation of you life!"
+  },
+  {
+    "id": 3,
+    "name": "Royalton Riviera Cancun",
+    "featured_image": "https://3332e2ed775ffc11c828-f4ece2a221505de52cdc57e57a9b32da.ssl.cf1.rackcdn.com/royalton-resorts/media/637680208254749357-62448078ad566.jpg",
+    "star_rating": 4,
+    "price_ppn": 130,
+    "breakfast_price": 15,
+    "booking_message": "Thank you for choosing Royalton Riviera Cancun! You won't be disappointed!"
+  },
+  {
+    "id": 4,
+    "name": "RIU Bamboo",
+    "featured_image": "https://www.riu.com/en/binaris/slide-riu-bambu_tcm55-231939.jpg",
+    "star_rating": 3,
+    "price_ppn": 85,
+    "breakfast_price": 14,
+    "booking_message": "RIU Bamboo is excited to have you! See you soon!"
+  },
+  {
+    "id": 5,
+    "name": "TUI Sensatori",
+    "featured_image": "https://d2yk9kjajbiedi.cloudfront.net/damfiles/article_image_12/tuigroup-15/de/medien/tui-storys/2019/2019-05-10-tui-sensatori-barut-fethiye/bilder/swim-up-rooms.jpg-d8ae0ecb150a486dd45792e445c29b26.jpg",
+    "star_rating": 5,
+    "price_ppn": 300,
+    "breakfast_price": 35,
+    "booking_message": "TUI Sensatori will be more than happy to make the vacation of your dreams come true!"
+  }
+]

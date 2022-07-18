@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Instant confirmation",
+    "description": "Use the form below and receive instant booking confirmation. As simple as that.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6631/6631092.png",
+    "alt": "Instant confirmation icon"
+  },
+  {
+    "id": 2,
+    "title": "Free refunds",
+    "description": "Not happy with your choice? Receive a full refund within the first week of your purchase.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/7553/7553618.png",
+    "alt": "Free refunds icon"
+  },
+  {
+    "id": 3,
+    "title": "Top Quality",
+    "description": "Carefully selected hotels, making sure all of your vacationing needs are fully met.",
+    "icon": "https://cdn-icons.flaticon.com/png/512/5112/premium/5112661.png?token=exp=1657458718~hmac=945009b7fadbc2581947b18d4f601cc0",
+    "alt": "Top Quality icon"
+  },
+  {
+    "id": 4,
+    "title": "Premium support",
+    "description": "24/7 assistance, through phone calls, e-mails, or dedicated desks at selected hotels.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/4064/4064337.png",
+    "alt": "Premium support icon"
+  }
+]

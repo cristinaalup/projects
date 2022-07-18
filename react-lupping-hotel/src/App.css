@@ -1,0 +1,12 @@
+.block-center {
+  display: block;
+  margin: 0 auto;
+}
+
+.max-width-1200 {
+  max-width: 1200px;
+}
+
+.toaster {
+  position: "bottom-right";
+}

@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Poppins:wght@100;200;400&display=swap");
+
+header {
+  background-color: #e1eff6;
+}
+
+li {
+  list-style-type: none;
+}
+.blue-gradient {
+  background: #28fbe2; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #28fbe2,
+    #1034ea
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #28fbe2,
+    #1034ea
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.max-width-1200 {
+  max-width: 1200px;
+}
+
+.block-center {
+  display: block;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.content-between {
+  justify-content: space-between;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.font-medium {
+  font-size: 20px;
+}
+
+.color-default {
+  color: inherit;
+}
+
+.gap-8 {
+  gap: 2rem;
+}
+
+.no-decoration {
+  text-decoration: none;
+}
+
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-PT {
+  font-family: "PT Sans", sans-serif;
+}
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.hover-text-blue:hover {
+  color: #1034ea;
+}
